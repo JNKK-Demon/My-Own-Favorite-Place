@@ -7,14 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8500CEC01CB955840093B881 /* SeychellesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500CEBF1CB955840093B881 /* SeychellesVC.swift */; };
+		8500CEC21CB9BE3C0093B881 /* PhotosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500CEC11CB9BE3C0093B881 /* PhotosVC.swift */; };
+		8500CEE21CBAB9F90093B881 /* MiniButton1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500CEE11CBAB9F90093B881 /* MiniButton1.swift */; };
+		8500CEE41CBABCB30093B881 /* WhiteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500CEE31CBABCB30093B881 /* WhiteButton.swift */; };
+		8500CEE61CBABE440093B881 /* MiniButton2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8500CEE51CBABE440093B881 /* MiniButton2.swift */; };
+		855FA3051CB84833002A65CB /* AboutMenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855FA3041CB84833002A65CB /* AboutMenuVC.swift */; };
+		855FA3071CB8639B002A65CB /* Kerning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855FA3061CB8639B002A65CB /* Kerning.swift */; };
+		855FA3091CB866D8002A65CB /* CustomLbl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855FA3081CB866D8002A65CB /* CustomLbl.swift */; };
 		85B829431CB7F576004FD588 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B829421CB7F576004FD588 /* AppDelegate.swift */; };
 		85B829451CB7F576004FD588 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B829441CB7F576004FD588 /* ViewController.swift */; };
 		85B829481CB7F576004FD588 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85B829461CB7F576004FD588 /* Main.storyboard */; };
 		85B8294A1CB7F576004FD588 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85B829491CB7F576004FD588 /* Assets.xcassets */; };
 		85B8294D1CB7F576004FD588 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85B8294B1CB7F576004FD588 /* LaunchScreen.storyboard */; };
+		85B829571CB822B1004FD588 /* MainButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B829561CB822B1004FD588 /* MainButton.swift */; };
+		85B8B2421CBADEE000ACBAC7 /* MiniButton4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85B8B2411CBADEE000ACBAC7 /* MiniButton4.swift */; };
+		85CA98311CBAC6E2007F2670 /* MiniButton3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85CA98301CBAC6E2007F2670 /* MiniButton3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8500CEBF1CB955840093B881 /* SeychellesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeychellesVC.swift; sourceTree = "<group>"; };
+		8500CEC11CB9BE3C0093B881 /* PhotosVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosVC.swift; sourceTree = "<group>"; };
+		8500CEE11CBAB9F90093B881 /* MiniButton1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiniButton1.swift; sourceTree = "<group>"; };
+		8500CEE31CBABCB30093B881 /* WhiteButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WhiteButton.swift; sourceTree = "<group>"; };
+		8500CEE51CBABE440093B881 /* MiniButton2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiniButton2.swift; sourceTree = "<group>"; };
+		855FA3041CB84833002A65CB /* AboutMenuVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutMenuVC.swift; sourceTree = "<group>"; };
+		855FA3061CB8639B002A65CB /* Kerning.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Kerning.swift; sourceTree = "<group>"; };
+		855FA3081CB866D8002A65CB /* CustomLbl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomLbl.swift; sourceTree = "<group>"; };
 		85B8293F1CB7F576004FD588 /* My Own Favorite Place.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Own Favorite Place.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85B829421CB7F576004FD588 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		85B829441CB7F576004FD588 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +41,9 @@
 		85B829491CB7F576004FD588 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85B8294C1CB7F576004FD588 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		85B8294E1CB7F576004FD588 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85B829561CB822B1004FD588 /* MainButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainButton.swift; sourceTree = "<group>"; };
+		85B8B2411CBADEE000ACBAC7 /* MiniButton4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiniButton4.swift; sourceTree = "<group>"; };
+		85CA98301CBAC6E2007F2670 /* MiniButton3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiniButton3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +78,21 @@
 			children = (
 				85B829421CB7F576004FD588 /* AppDelegate.swift */,
 				85B829441CB7F576004FD588 /* ViewController.swift */,
+				855FA3041CB84833002A65CB /* AboutMenuVC.swift */,
+				8500CEC11CB9BE3C0093B881 /* PhotosVC.swift */,
+				8500CEBF1CB955840093B881 /* SeychellesVC.swift */,
 				85B829461CB7F576004FD588 /* Main.storyboard */,
 				85B829491CB7F576004FD588 /* Assets.xcassets */,
 				85B8294B1CB7F576004FD588 /* LaunchScreen.storyboard */,
 				85B8294E1CB7F576004FD588 /* Info.plist */,
+				85B829561CB822B1004FD588 /* MainButton.swift */,
+				8500CEE31CBABCB30093B881 /* WhiteButton.swift */,
+				8500CEE11CBAB9F90093B881 /* MiniButton1.swift */,
+				8500CEE51CBABE440093B881 /* MiniButton2.swift */,
+				85CA98301CBAC6E2007F2670 /* MiniButton3.swift */,
+				85B8B2411CBADEE000ACBAC7 /* MiniButton4.swift */,
+				855FA3061CB8639B002A65CB /* Kerning.swift */,
+				855FA3081CB866D8002A65CB /* CustomLbl.swift */,
 			);
 			path = "My Own Favorite Place";
 			sourceTree = "<group>";
@@ -137,7 +170,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				85B829451CB7F576004FD588 /* ViewController.swift in Sources */,
+				855FA3071CB8639B002A65CB /* Kerning.swift in Sources */,
+				8500CEE21CBAB9F90093B881 /* MiniButton1.swift in Sources */,
+				855FA3051CB84833002A65CB /* AboutMenuVC.swift in Sources */,
 				85B829431CB7F576004FD588 /* AppDelegate.swift in Sources */,
+				8500CEE61CBABE440093B881 /* MiniButton2.swift in Sources */,
+				85B829571CB822B1004FD588 /* MainButton.swift in Sources */,
+				855FA3091CB866D8002A65CB /* CustomLbl.swift in Sources */,
+				85CA98311CBAC6E2007F2670 /* MiniButton3.swift in Sources */,
+				8500CEC01CB955840093B881 /* SeychellesVC.swift in Sources */,
+				85B8B2421CBADEE000ACBAC7 /* MiniButton4.swift in Sources */,
+				8500CEC21CB9BE3C0093B881 /* PhotosVC.swift in Sources */,
+				8500CEE41CBABCB30093B881 /* WhiteButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,6 +333,7 @@
 				85B829531CB7F576004FD588 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
